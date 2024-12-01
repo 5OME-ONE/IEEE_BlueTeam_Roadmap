@@ -266,9 +266,9 @@ _______
 
 ____
 ____
-<h1 style="text-align:center;">Time To Choose...</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1 style="text-align:center;">Time To Choose...</h1>
 
 ___
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://example.com/re-ma" style="font-size: 30px;">Malware Analysis</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://example.com/dfire" style="font-size: 30px;">Digital Forensics</a>
+  <a href="https://example.com/re-ma" style="font-size: 30px;">Malware Analysis</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://example.com/dfire" style="font-size: 30px;">Digital Forensics</a>
 </div>
