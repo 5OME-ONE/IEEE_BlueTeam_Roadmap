@@ -267,7 +267,7 @@ _______
 ____
 ____
 
-<div align="center">
+<div align="center"; style="font-size: 50px;">
 Time To Choose...
 </div>
 
