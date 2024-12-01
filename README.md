@@ -27,12 +27,8 @@
 
   <details>
     <summary>Week-3</summary>
+    -  Chapter 4: Building a Binary Loader Using `libbfd`.
 
-    -  **Chapter 10**
-    -  **Chapter 12**
-    -  **Chapter 13**
-    -  **Chapter 14**
-    -  **Chapter 17**
 
   </details>
 
