@@ -259,7 +259,7 @@ _______
 
 <br>
 
-<span style="color:#339993; font-size: 22px;">**Congratulations**</span> <span style="font-size: 22px;"> to all of you for completing phase one of the Blue-Teaming roadmap! You have built a solid foundation in the essential concepts that apply across all Blue-Teaming subfields. Now that you've mastered the basics, it's time to take the next step and specialize. You can choose between diving deeper into Malware Analysis or focusing on Digital Forensics—both crucial areas for enhancing your skills and expertise in cybersecurity.</span>
+<span style="color:#339993; font-size: 22px;">***Congratulations***</span> <span style="font-size: 22px;"> to all of you for completing phase one of the Blue-Teaming roadmap! You have built a solid foundation in the essential concepts that apply across all Blue-Teaming subfields. Now that you've mastered the basics, it's time to take the next step and specialize. You can choose between diving deeper into Malware Analysis or focusing on Digital Forensics—both crucial areas for enhancing your skills and expertise in cybersecurity.</span>
 
 
 <br>
