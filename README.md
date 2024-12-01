@@ -16,12 +16,9 @@
   </details>
 
   <details>
-    <summary>Week-2</summary>
+    <summary>Week-14</summary>
 
-    -  **Chapter 6**
-    -  **Chapter 7**
-    -  **Chapter 8**
-    -  **Chapter 9**
+    -  Chapter 4: Building a Binary Loader Using `libbfd`.
 
   </details>
 
