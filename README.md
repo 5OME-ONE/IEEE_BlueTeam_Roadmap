@@ -3,7 +3,7 @@
 ## **Prerequisites**:
 You must have a strong knowledge of C programming language [*The better programmer you are the better Blue-Teamer you are.*]
 
-**Resources:** [The C Programming Language 2 Book](https://drive.google.com/file/d/1qD6TyPWGgBhZ0Pu4v1fEd1onhUi0tNyw/view?usp=sharing)
+**Resources:** [The C Programming Language 2nd Edition Book](https://drive.google.com/file/d/1qD6TyPWGgBhZ0Pu4v1fEd1onhUi0tNyw/view?usp=sharing)
 
  
 <details>
